@@ -24,6 +24,9 @@
 <script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/jquery.popline.min.js"></script>
 <script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/plugins/jquery.popline.link.js"></script>
 <script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/plugins/jquery.popline.decoration.js"></script>
+<script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/plugins/jquery.popline.blockformat.js"></script>
+<script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/plugins/jquery.popline.justify.js"></script>
+<script type="text/javascript" src="http://192.168.1.7:8080/PracticeProject/assets/js/plugins/jquery.popline.backcolor.js"></script>
 <script>
 $(document).ready(function(){
 	$(".editable_textarea").editable("/PracticeProject/updatecontent", { 
